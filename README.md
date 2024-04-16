@@ -11,7 +11,6 @@
 **Mis intereses:**
 
 Desarrollo de software.
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 Análisis de datos
 
@@ -21,4 +20,4 @@ Programación funcional.
 
 ¡Estoy emocionado por compartir mi viaje de aprendizaje y colaborar con otros desarrolladores en GitHub! No dudes en ponerte en contacto conmigo si quieres discutir ideas o colaborar en algún proyecto.
 
-¡Gracias por visitar mi perfil! EMOJICODE: ,saludar.
+¡Gracias por visitar mi perfil! EMOJICODE:
