@@ -20,4 +20,4 @@ Programación funcional.
 
 ¡Estoy emocionado por compartir mi viaje de aprendizaje y colaborar con otros desarrolladores en GitHub! No dudes en ponerte en contacto conmigo si quieres discutir ideas o colaborar en algún proyecto.
 
-¡Gracias por visitar mi perfil! EMOJICODE:
+¡Gracias por visitar mi perfil!
