@@ -8,10 +8,10 @@
 🤝 Me gusta colaborar en proyectos de código abierto y aprender de otros desarrolladores.
 📫 Puedes contactarme a través de mi correo electrónico [mongesd452@gmail.com] para cualquier consulta o colaboración.
 Mis intereses
--Desarrollo de software
--Análisis de datos
--Inteligencia artificial
--Programación funcional.
++Desarrollo de software
++Análisis de datos
++Inteligencia artificial
++Programación funcional.
 ¡Estoy emocionado por compartir mi viaje de aprendizaje y colaborar con otros desarrolladores en GitHub! No dudes en ponerte en contacto conmigo si quieres discutir ideas o colaborar en algún proyecto.
 
 ¡Gracias por visitar mi perfil!
