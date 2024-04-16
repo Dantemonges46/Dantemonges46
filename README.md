@@ -11,6 +11,7 @@
 **Mis intereses:**
 
 Desarrollo de software.
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 Análisis de datos
 
